@@ -12,7 +12,6 @@ An AI-powered project builder that helps you generate and manage projects with i
 - [Installation](#installation)
 - [How to Run Locally](#how-to-run-locally)
 - [Deployment with Vercel](#deployment-with-vercel)
-- [Screenshots](#screenshots)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
 - [License](#license)
@@ -193,17 +192,6 @@ vercel
 - Every push to the main branch triggers a new deployment
 - Preview deployments are created for pull requests
 - Check deployment logs in the Vercel Dashboard for troubleshooting
-
-## 📸 Screenshots
-
-### Coming Soon
-- Home Page
-- Project Dashboard
-- AI Suggestion Interface
-- User Profile
-- Authentication Screens
-
-*Screenshots will be added as the project progresses.*
 
 ## 🎯 Future Improvements
 
